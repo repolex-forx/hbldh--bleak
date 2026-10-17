@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/hbldh/bleak/commit/c7ca1b04b00b0bda5f98ccf9493e24784cfe869d",
       "git:hexsha": "c7ca1b04b00b0bda5f98ccf9493e24784cfe869d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/hbldh/bleak/commit/f53463ffca1c3b1275088be11ddfb1f9deac7438",
